@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "109973302790",
+    "project_id": "inventory-system-7acea",
+    "storage_bucket": "inventory-system-7acea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109973302790:android:a6e1f610b557bee3e5dd87",
+        "android_client_info": {
+          "package_name": "com.example.inventorysystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfH70QVDkKCu68V_CsfQiu6xq_5MpFfZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
