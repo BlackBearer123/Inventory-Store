@@ -45,7 +45,7 @@
                 android:background="@drawable/lavender_border"
                 android:layout_marginTop="20dp"
                 android:padding="16dp"
-                android:hint="Enter topic name"
+                android:hint="Enter Product name"
                 android:gravity="start|center_vertical"
                 android:textColor="@color/lavender"/>
             <EditText
@@ -55,7 +55,7 @@
                 android:background="@drawable/lavender_border"
                 android:layout_marginTop="20dp"
                 android:padding="16dp"
-                android:hint="Enter description"
+                android:hint="Enter Quality and Quantity"
                 android:gravity="start|center_vertical"
                 android:textColor="@color/lavender"/>
             <EditText
@@ -65,7 +65,7 @@
                 android:background="@drawable/lavender_border"
                 android:layout_marginTop="20dp"
                 android:padding="16dp"
-                android:hint="Enter language"
+                android:hint="Enter Price"
                 android:gravity="start|center_vertical"
                 android:textColor="@color/lavender"/>
             <Button

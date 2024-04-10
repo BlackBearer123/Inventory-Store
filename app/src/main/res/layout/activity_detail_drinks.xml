@@ -12,19 +12,20 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/detailTitle"
-        android:text="Title"
+        android:text="Product Item"
         android:layout_marginTop="14dp"
         android:textSize="24sp"
         android:layout_gravity="center"
         android:layout_marginBottom="12dp"
         android:textColor="@color/lavender"/>
     <ImageView
-        android:layout_width="400dp"
+        android:layout_width="300dp"
         android:layout_height="200dp"
         android:id="@+id/detailImage"
         android:padding="8dp"
         android:layout_gravity="center"
         android:src="@drawable/uploadimg"
+        android:background="@drawable/lavender_border"
         android:scaleType="fitXY"/>
     <TextView
         android:layout_width="match_parent"
@@ -35,6 +36,7 @@
         android:layout_gravity="center"
         android:id="@+id/detailLang"
         android:textSize="18sp"
+        android:background="@drawable/lavender_border"
         android:textColor="@color/lavender"/>
     <TextView
         android:layout_width="match_parent"
@@ -45,6 +47,7 @@
         android:layout_gravity="center"
         android:id="@+id/detailDesc"
         android:textSize="18sp"
+        android:background="@drawable/lavender_border"
         android:textColor="@color/lavender"/>
     <RelativeLayout
         android:layout_width="match_parent"
